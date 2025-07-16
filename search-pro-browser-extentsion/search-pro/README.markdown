@@ -1,8 +1,8 @@
-# Glass Search Extension
+# Search Pro Extension
 
-**Glass Search Extension** is a modern, customizable Chrome extension that provides a sleek, glassy search interface for quick access to multiple search engines and custom websites. With a dark, transparent UI, drag-and-drop functionality, and recent search history, it enhances your browsing experience by streamlining searches across platforms like Google, YouTube, GitHub, and more. Whether you're a developer, researcher, or casual user, this extension saves time and keeps your searches organized.
+**Search Pro Extension** is a modern, customizable Chrome extension that provides a sleek, glassy search interface for quick access to multiple search engines and custom websites. With a dark, transparent UI, drag-and-drop functionality, and recent search history, it enhances your browsing experience by streamlining searches across platforms like Google, YouTube, GitHub, and more. Whether you're a developer, researcher, or casual user, this extension saves time and keeps your searches organized.
 
-## Why Use Glass Search Extension?
+## Why Use Search Pro Extension?
 
 This extension is useful because it:
 
@@ -55,7 +55,7 @@ This extension is useful because it:
    - Open Chrome and navigate to `chrome://extensions/`.
    - Enable **Developer Mode** (toggle in the top-right corner).
    - Click **Load unpacked** and select the `glass-search-extension` folder.
-   - The extension should appear in the extensions list with the name "Glass Search Extension."
+   - The extension should appear in the extensions list with the name "Search Pro Extension."
 
 4. **Clear Browser Cache** (Recommended):
 
@@ -67,7 +67,7 @@ This extension is useful because it:
 1. **Open the Extension**:
 
    - Navigate to an http/https webpage (e.g., `https://example.com`).
-   - Click the **Glass Search Extension** icon in the Chrome toolbar (pinned via `chrome://extensions/` &gt; "Details" &gt; "Pin").
+   - Click the **Search Pro Extension** icon in the Chrome toolbar (pinned via `chrome://extensions/` &gt; "Details" &gt; "Pin").
    - A red debug box (or glassy UI after removing debug styles) should appear in the center of the screen.
 
 2. **Search**:
@@ -202,4 +202,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**Get searching with Glass Search Extension!** If you encounter issues or have feature requests, open an issue on GitHub or contact the maintainers.
+**Get searching with Search Pro Extension!** If you encounter issues or have feature requests, open an issue on GitHub or contact the maintainers.
